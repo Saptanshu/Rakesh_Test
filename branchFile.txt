@@ -1,0 +1,6 @@
+
+This is a new file added in the feature branch
+
+This file will be merged into the master repo in a later point in time.
+
+FOr now, it is retained in the branch.

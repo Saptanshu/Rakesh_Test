@@ -1,3 +1,6 @@
 This is the first commit
 
-This change is done in the my project branch
+This change is done in the feature branch. This will be committed to master
+
+Adding some more content to test modifications.
+
